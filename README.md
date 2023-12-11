@@ -14,7 +14,7 @@ The user can navigate to different sections by clicking on the links in the navi
 
 The website is responsive and adapts to different screen sizes and devices. The layout and design of the website change according to the width of the viewport. For example, on smaller screens, the grid of web applications becomes a single column instead of two.
 
-You can visit the website by clicking on this [LINK](https://cntervisi.github.io/HoriseonMarketing/).
+You can visit the website by clicking on this [LINK](https://cntervisi.github.io/portfolio/).
 
 Here are some GIF's of the website from three different viewports (<600px, <768px, <1020px):
 
