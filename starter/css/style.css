@@ -131,7 +131,7 @@ footer.page-section {
 footer .content {
   flex: 1;
   display: flex;
-  justify-content:center;
+  justify-content: center;
   padding: 10px 0;
 }
 footer ul {
