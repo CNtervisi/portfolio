@@ -66,6 +66,10 @@ main {
   justify-content: space-between;
   align-items: flex-end;
 }
+#profile{
+margin-bottom: -5px;
+}
+
 .hero-banner .image img {
   max-width: 200px;
   border-radius: 50%;
@@ -198,4 +202,15 @@ footer ul li a {
     align-items: center;
     gap: 30px;
   }
+  .hero-banner{
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+  .hero-banner h2 {
+    color: rgb(121, 121, 121);
+    margin-top: -5%;
+  }
 }
+
+
