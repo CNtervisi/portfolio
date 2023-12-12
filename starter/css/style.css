@@ -193,4 +193,9 @@ footer ul li a {
     padding-bottom: 0;
     margin-bottom: 0;
   }
+  .header{
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
 }
